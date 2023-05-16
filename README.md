@@ -8,7 +8,7 @@ Project Lists:
 
 
 
-1. Data Science: [Analysis of Stackoverflow’s 2021 and 2022 Annual Developer Survey for Turkish Data Scientists and Developers]https://github.com/EmreToktay/Data-Science-NanoDegree/tree/main/Introduction_to_data_science)(https://memretoktay.net/Blog%20Posts/Stackoverflow.html)
+1. Data Science: [Analysis of Stackoverflow’s 2021 and 2022 Annual Developer Survey for Turkish Data Scientists and Developers]https://github.com/EmreToktay/Data-Science-NanoDegree/tree/main/Introduction_to_data_science (https://memretoktay.net/Blog%20Posts/Stackoverflow.html)
 
 2. Unsupervised Learning: [Identify Customer Segments](https://github.com/EmreToktay/Data-Science-NanoDegree/tree/main/Unsupervised%20Learning)
 
