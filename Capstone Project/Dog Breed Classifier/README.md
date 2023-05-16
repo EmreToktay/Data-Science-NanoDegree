@@ -8,6 +8,8 @@ Dogs have been our loyal companions for thousands of years, providing love, comp
 
 In this project, we have developed a dog breed classifier using Convolutional Neural Networks (CNN) that can accurately identify a dog's breed from its image. This classifier can be useful for potential pet owners looking to learn more about the breed of a dog they wish to adopt or for those who simply want to understand the breed-specific characteristics of their furry friends.
 
+For detailed overview [blog post].(https://memretoktay.net/Blog%20Posts/Dog%20Breed%20Classifier.html)
+
 
 ## Project Overview
 
